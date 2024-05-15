@@ -1,0 +1,24 @@
+/* custom.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background: #343a40;
+    padding: 10px 0;
+}
+
+.navbar-brand {
+    font-size: 1.5rem; 
+    font-weight: bold; 
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #f8f9fa;
+    margin-top: 40px;
+}
